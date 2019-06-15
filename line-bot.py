@@ -45,7 +45,7 @@ def job():
     bot.send(message=message)
   elif weekday == 2:
     # 水曜
-    message = "今日は"
+    message = "今日はルンバが動く日です。"
     bot.send(message=message)  
   elif weekday == 4:
     # 金曜
